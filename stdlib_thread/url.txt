@@ -1,0 +1,1 @@
+https://www.bitecode.dev/p/the-easy-way-to-concurrency-and-parallelism
